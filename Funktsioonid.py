@@ -21,3 +21,13 @@ from module1 import *
 #a=6
 #D=season(a)
 #print(D)
+#task 5
+#a=float(input("money: "))
+#years=int(input("years: "))
+#D=bank(a,years)
+#print(D)
+#Task 6
+#a=int(input())
+#D=is_prime(a)
+#print(D)
+#Task 7
